@@ -1,0 +1,21 @@
+# Java
+/target
+*.class
+*.log
+*.jar
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+**/dependency-reduced-pom.xml
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
